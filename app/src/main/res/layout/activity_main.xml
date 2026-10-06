@@ -153,6 +153,7 @@
                             android:textColor="#A4A5A5" />
 
                         <TextView
+                            android:id="@+id/email_text"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="sarah@school.edu"
@@ -194,6 +195,7 @@
                             android:textColor="#A4A5A5" />
 
                         <TextView
+                            android:id="@+id/phone_text"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="+1 (555) 987-6547"
@@ -276,6 +278,7 @@
                             android:textColor="#A4A5A5" />
 
                         <TextView
+                            android:id="@+id/role_text"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Admin"
